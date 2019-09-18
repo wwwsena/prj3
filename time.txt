@@ -1,0 +1,15 @@
+.LOG
+3:02 PM 8/27/2019
+Check Java version in demo1 (5)
+3:09 PM 8/27/2019 1.8.0_191
+Set same version in Eclipse (10)
+3:19 PM 8/27/2019
+Import code into Eclipse (5)
+3:37 PM 8/27/2019
+Convert to Servlet (20)
+Test (10)
+Rework (10)
+
+Hidden Castle reim.
+8096951618 - Rahul
+9:46 PM 9/18/2019
